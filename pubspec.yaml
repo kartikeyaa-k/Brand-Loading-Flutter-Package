@@ -1,7 +1,8 @@
 name: brand_logo_loading
-description: This package will let you to add your brand logo to loading widget
+description: Instead of showing a loading bar, this package will allow you to add your brand logo with some really cool animations.
 version: 0.0.1
-homepage:
+homepage: https://github.com/kartikeyaa-k/Brand-Loading-Flutter-Package
+author: Kartikeya B. <kartikeya.badekar@gmail.com>
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
