@@ -1,6 +1,6 @@
-# Brand Logo Loading a Flutter Package
+# Brand Logo Loading
 
-Add your brand logo as a loading bar with various customizable options with fancy animations.
+A Flutter package to add your brand logo as a loading bar with various customizable options with fancy animations.
 
 ## Getting Started
 
