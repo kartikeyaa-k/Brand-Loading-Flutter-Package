@@ -1,6 +1,6 @@
 # brand_logo_loading
 
-This package will let you to add your brand logo to loading widget
+Add your brand logo as a loading bar with various customizable options with fancy animations.
 
 ## Getting Started
 

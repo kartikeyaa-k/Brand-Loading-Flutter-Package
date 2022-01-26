@@ -30,7 +30,6 @@ class MainWidget extends StatelessWidget {
         logo: 'assets/logo.png',
         logoBackdropColor: Colors.transparent,
         durationInMilliSeconds: 900,
-
     );
   }
 
