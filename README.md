@@ -4,9 +4,8 @@ Add your brand logo as a loading bar with various customizable options with fanc
 
 ## Getting Started
 
-It's a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+It's a flutter package, easily import into your projects to make a custom loading bar for your app.
+1. Add Dependency
+2. Follow example on pub.dev for implementations.
 
 If you wish to contribute to this package, do get in touch at my mail. :)
